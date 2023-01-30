@@ -16,11 +16,10 @@ public class Jucarie {
         Nume = nume;
     }
 
-    public void Nume(){
-        Nume.Info();
+    public void Info(){
+        System.out.println(Nume);
 
     }
 
-    public void Info() {
-    }
+
 }
